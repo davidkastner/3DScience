@@ -8,6 +8,6 @@ project-date: March 2022
 client: Journal of the American Chemical Society
 category: Journal Cover
 thumbnail: 1-thumbnail.jpg
-description: 
+description: https://doi.org/10.1021/jacs.1c12891
 
 ---

@@ -8,6 +8,6 @@ project-date: May 2022
 client: The Journal of Physical Chemistry B
 category: Journal Cover
 thumbnail: 2-thumbnail.jpg
-description: 
+description: https://doi.org/10.1021/acs.jpcb.2c02260
 
 ---
