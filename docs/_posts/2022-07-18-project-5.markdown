@@ -1,0 +1,13 @@
+---
+title: Composition
+subtitle: Blender CyclesX Render
+layout: default
+modal-id: 5
+img: 5.jpg
+project-date: Dec 2022
+client: JACS Au
+category: Journal Cover
+thumbnail: 5-thumbnail.jpg
+description: 
+
+---
