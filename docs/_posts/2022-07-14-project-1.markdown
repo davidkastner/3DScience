@@ -1,0 +1,13 @@
+---
+title: Advanced Textures
+subtitle: Blender CyclesX Render
+layout: default
+modal-id: 1
+img: 1.jpg
+project-date: March 2022
+client: Journal of the American Chemical Society
+category: Journal Cover
+thumbnail: 1-thumbnail.jpg
+description: 
+
+---

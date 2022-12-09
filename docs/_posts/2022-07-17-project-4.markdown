@@ -1,0 +1,13 @@
+---
+title: Depth of Field
+subtitle: Blender CyclesX Render
+layout: default
+modal-id: 4
+img: 4.jpg
+project-date: Aug 2022
+client: Langmuir
+category: Journal Cover
+thumbnail: 4-thumbnail.jpg
+description: 
+
+---

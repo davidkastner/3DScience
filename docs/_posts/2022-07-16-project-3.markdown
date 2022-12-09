@@ -4,6 +4,9 @@ subtitle: Blender Cycles Render
 layout: default
 modal-id: 3
 img: 3.jpg
+project-date: Jan 2022
+client: Chemical Science
+category: Journal Cover
 thumbnail: 3-thumbnail.jpg
 description: 
 

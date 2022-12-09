@@ -1,0 +1,13 @@
+---
+title: Cinematic Lighting
+subtitle: Blender Eevee Render
+layout: default
+modal-id: 2
+img: 2.jpg
+project-date: May 2022
+client: The Journal of Physical Chemistry B
+category: Journal Cover
+thumbnail: 2-thumbnail.jpg
+description: 
+
+---
