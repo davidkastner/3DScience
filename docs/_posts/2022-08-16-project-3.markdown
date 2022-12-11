@@ -8,6 +8,6 @@ project-date: Jan 2022
 client: Chemical Science
 category: Journal Cover
 thumbnail: 3-thumbnail.jpg
-description: https://doi.org/10.1039/D1SC05992K
+description: <a href="https://doi.org/10.1039/D1SC05992K">DOI 10.1039/D1SC05992K</a>
 
 ---
