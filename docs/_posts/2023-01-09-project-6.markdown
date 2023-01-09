@@ -1,0 +1,13 @@
+---
+title: Geometry Nodes
+subtitle: Blender CyclesX Render
+layout: default
+modal-id: 6
+img: 6.jpg
+project-date: Jan 2023
+client: ACS Catalysis
+category: Journal Cover
+thumbnail: 6-thumbnail.jpg
+description: 
+
+---
