@@ -27,7 +27,7 @@ While the course will be offered in person, all lectures will also be provided a
 ## Course Schedule
 ### JAN 18, 2023 - 10:30-11:30AM
 #### The 3D Viewport and Lighting
-The first class will focus on navigating the 3D viewport, while exploring the basics of lighting. By the end of class, you will have made your first full render!
+The first class will focus on navigating the 3D viewport, while exploring the basics of lighting. By the end of the class, you will have made your first full render!
 * Course Intro - 10 min
 * Navigating the viewport - 10 min
 * Importing and manipulating a molecular structure - 10 min
