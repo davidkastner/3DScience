@@ -4,12 +4,12 @@
 ## Table of Contents
 1. **Introduction**
 2. **Details**
-3. **Course Schdule**
+3. **Course Schedule**
 4. **Contact**
 
 
 ## Introduction
-Welocome to 20.S947! This course is designed to progress students from beginners to confident users of modern 3D rendering software with a focus on biological and chemical scenes. The course will provide an overview of 3D modeling, realistic materials, and scene composition. By the end of the course, students will feel comfortable rendering realistic scenes for scientific figures, journal covers, presentations, and community outreach. 
+Welcome to 20.S947! This course is designed to progress students from beginners to confident users of modern 3D rendering software with a focus on biological and chemical scenes. The course will provide an overview of 3D modeling, realistic materials, and scene composition. By the end of the course, students will feel comfortable rendering realistic scenes for scientific figures, journal covers, presentations, and community outreach. 
 
 While the course will be offered in person, all lectures will also be provided asynchronously to fit a wide range of schedules. In addition, the class will follow a live demo format, where students can follow along and ask questions as they familiarize themselves with increasingly complex scenes. The course will use Blender, the leading open-source software for 3D rendering, used across science, animation, video game development, and virtual reality.
 
