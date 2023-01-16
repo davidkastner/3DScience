@@ -24,35 +24,44 @@ While the course will be offered in person, all lectures will also be provided a
 * JAN 25, 2023 - 10:30-11:30AM
 
 
-## Course Schedule
-### JAN 18, 2023 - 10:30-11:30AM
-#### The 3D Viewport and Lighting
-The first class will focus on navigating the 3D viewport, while exploring the basics of lighting. By the end of the class, you will have made your first full render!
-* Course Intro - 10 min
-* Navigating the viewport - 10 min
-* Importing and manipulating a molecular structure - 10 min
-* Adding lighting - 10 min
-* Preparing and rendering the scene - 10 min
+### Lecture 1: The 3D Viewport and Lighting
+#### JAN 18, 2023 - 10:30-11:30AM
+For many of you, this will be your first introduction to the world of 3D modeling. At first it will feel foreign, and you will likely find yourself wondering, how can I possibly remember all this? Don’t worry! Everyone feels this way when they start. In fact, this first lesson is designed to make you feel that way. By the end of this lesson, you will have seen EVERYTHING you need to make a high-quality journal cover. The next three lessons will reinforce what we learn today and introduced more advanced topics.
 
-### JAN 23, 2023 - 10:30-11:30AM
-#### Scene Composition
-In this class, we will draw from the previous class and compose and render a 3D biological scene as if it were a journal cover.
-* Importing a protein structure - 10 min
-* Environmental lighting - 10 min
-* Realistic textures - 10 min
-* Scene composition - 10 min
-* Preparing and rendering the scene - 10 min
+* 20.S947: Intro to 3D Scientific Rendering
+* Converting molecular structures to 3D meshes
+* Basics of manipulating molecular structures in Blender
+* Experimenting with Blender materials for molecules
+* Experimenting with lighting for molecular scenes
+* More realistic Eevee render settings
+* Stylize your molecular scene with the compositor
 
-### JAN 25, 2023 - 10:30-11:30AM
-#### Movies and Animations
-In this final class, we will render a movie of two proteins binding using cinematic lighting and compositing effects.
-* Importing protein structures - 10 min
-* Lighting and texture setup - 10 min
-* Scene Composition - 10 min
-* Timeline - 10 min
-* Animation - 10 min
+
+### Designing a Scientific Journal Cover
+#### JAN 23, 2023 - 10:30-11:30AM
+Congratulations on finishing the first lesson! I hope it wasn’t too overwhelming. In this next lesson, we will be using our render from the previous lesson to design a journal cover. We will pull from what we learned in the previous lesson but will also introduce almost all the topics you will need to consider yourself a Blender expert. You should feel a little overwhelmed after this lecture but trust me that is the only way to learn 3D modeling!
+
+* Viewing your molecular scene from the lens of a journal cover
+* Using environmental textures to improve molecular scenes
+* Adding procedural material to molecules
+* Adding realistic PBR material to molecules
+* Create a dust and smudged lens effect with Blender’s compositor
+
+
+### Scientific Animations and Movies
+#### JAN 25, 2023 - 10:30-11:30AM
+Hope you appreciate how far you have come. Using the skills, you have learned in Lectures 1 & 2, you will be able to render just about any still scene given a starting structure. However, there is one last topic I would like to introduce you to, and that is Animations. Being able to render scientific movies and animations can be a powerful tool for community outreach and getting your work scene. In this lesson, we will take the final scene from lesson 1 and turn it into a simple movie showcasing the binding of a peptide to the MHC pocket.
+
+* Animating a ligand binding
+* Creating a looping animation effect
+* Creating predictable dust particles	that appear random
+* Rendering and processing an animation in Blender
+
+
 
 ## Contact
 kastner@mit.edu
+
 www.3dscience.org
 
+https://github.com/davidkastner/3DScience/issues
