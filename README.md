@@ -1,5 +1,6 @@
 # MIT Course 20.S947: 3D scientific Rendering.
 
+[![Video Tutorial](https://img.youtube.com/vi/zopUMqWo14/maxresdefault.jpg)](https://youtu.be/zzopUMqWo14)
 
 ## Table of Contents
 1. **Introduction**
