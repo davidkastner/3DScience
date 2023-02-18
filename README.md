@@ -1,12 +1,12 @@
 # MIT Course 20.S947: 3D Scientific Rendering.
 
+[![Video Tutorial](https://raw.githubusercontent.com/davidkastner/3DScience/main/docs/img/thumbnail.jpg)](https://youtu.be/zzopUMqWo14)
+
 ## Table of Contents
 1. **Introduction**
 2. **Details**
 3. **Course Schedule**
 4. **Contact**
-
-[![Video Tutorial](https://raw.githubusercontent.com/davidkastner/3DScience/main/docs/img/thumbnail.jpg)](https://youtu.be/zzopUMqWo14)
 
 ## Introduction
 Welcome to 20.S947! This course is designed to progress students from beginners to confident users of modern 3D rendering software with a focus on biological and chemical scenes. The course will provide an overview of 3D modeling, realistic materials, and scene composition. By the end of the course, students will feel comfortable rendering realistic scenes for scientific figures, journal covers, presentations, and community outreach. 
