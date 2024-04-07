@@ -64,4 +64,4 @@ kastner@mit.edu
 
 www.3dscience.org
 
-[https://github.com/davidkastner/3DScience/issues](https://github.com/davidkastner/3DScience/discussions)
+[https://github.com/davidkastner/3DScience/discussions](https://github.com/davidkastner/3DScience/discussions)
